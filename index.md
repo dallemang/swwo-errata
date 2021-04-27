@@ -22,6 +22,8 @@ On the same page, I think the word None should not be there:
 
 Also, maybe in the list of serialization formats on the next line, N3, TriG and N-Quads might also be mentioned.
 
+These observations are all correct. This is page 67 in the print edition. 
+
 ## Page 103
 
 ![](2020-12-31_15-11-swwo-page103.png)
