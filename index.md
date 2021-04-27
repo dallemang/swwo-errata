@@ -8,6 +8,8 @@ The link or citation is apparently broken.
 
 ![](2020-12-30_19-06-swwo-1.png)
 
+In the print edition, this is on page 61
+
 ## Page 84
 
 ![](2020-12-30_19-28-swwo-page84.png)
